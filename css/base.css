@@ -1,0 +1,64 @@
+/* Generalt */
+p, h1, h2, h3, h4, h5 {
+    font-family: 'Open Sans', sans-serif;
+}
+/**/
+
+/* Navbar Logo */
+.navbar-brand {
+    padding: 5px;
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 24px;
+    color: aliceblue;
+    background-color: transparent;
+}
+
+.navbar-brand:hover {
+    color: aliceblue;
+}
+
+.navbar-brand .logo {
+    height: 100%;
+    display: inline;
+    padding-right: 10px;
+}
+/**/
+
+
+/* Navigation */
+.navbar {
+    background-color: #1d1d1d;
+    
+}
+
+.nav>li>a {
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: aliceblue;
+}
+
+.nav>li>a:hover {
+    color: #1d1d1d; 
+    background-color: aliceblue;
+}
+
+.navbar-header .icon-bar {
+    background-color: aliceblue;
+}
+/**/
+
+/* Forside */
+/**/
+
+/* Om os */
+
+/**/
+
+/* Footer */
+footer {
+    text-align: center;
+}
+/**/
